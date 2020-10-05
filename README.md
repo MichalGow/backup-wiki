@@ -1,4 +1,4 @@
-# Save mediawiki into HTML
+# Save MediaWiki into HTML
 
 Use this script to export the MediaWiki content into pretty HTML files. It is written in Z shell, but works in Bash too. 
 
