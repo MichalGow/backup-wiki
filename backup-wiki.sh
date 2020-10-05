@@ -1,7 +1,7 @@
 #!/bin/zsh
 
 INDEX_URL="http://localhost/index.php"
-ENTRY_PAGE="Fiat_Lux_(for_Michal)"
+ENTRY_PAGE="Fiat_Lux"
 DEST_DIR="mediawiki"
 URL="$INDEX_URL/$ENTRY_PAGE"
 FILES_DEST="$DEST_DIR/"`echo "$INDEX_URL" | sed 's/[a-zA-Z]*:\/\///g'`
